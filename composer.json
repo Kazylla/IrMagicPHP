@@ -1,0 +1,20 @@
+{
+  "name": "kazylla/irmagic",
+  "description": "irMagician API for PHP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kazuya Iwasaki",
+      "email": "1@kaylla.jp",
+      "homepage": "http://github.com/Kazylla/IrMagicPHP"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kazylla\\IrMagic\\": "src/"
+    }
+  }
+}
